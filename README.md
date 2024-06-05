@@ -9,6 +9,18 @@ I'm currently working on Python bots, Java OOP<br>I'm currently learning Java, P
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aucs0n&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aucs0n&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+# 💻 Featured YouTube Videos
+<!-- YouTube video cards from https://github.com/DenverCoder1/github-readme-youtube-cards -->
+<!-- If you want to display the latest videos, then simply follow the instructions in the above repo. -->
+<!-- If you however want to select which videos display, then you can manually generate the video link by changing the below parameters in angle brackets. -->
+<!-- https://ytcards.demolab.com/?id=<video ID>&title=<video+title>&lang=en&timestamp=<video publish date in Unix time format>&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=<video duration in seconds> "<video title>") -->
+<!-- BEGIN YOUTUBE-CARDS -->
+[![Epic FC on Gunjou Infinity by Toyama Nao | 351 pp 98.68% Accuracy | osu!](https://ytcards.demolab.com/?id=q6e1IVrWIM8&title=Epic+FC+on+Gunjou+Infinity+by+Toyama+Nao+|+351+pp+98.68%+Accuracy+|+osu!&lang=en&timestamp=1716163200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "Epic FC on Gunjou Infinity by Toyama Nao | 351 pp 98.68% Accuracy | osu!")]([https://youtu.be/Wjj21p3tvcg?si=b7QYksN87h0wsGpQ](https://youtu.be/q6e1IVrWIM8?si=WwKGzbuFsyp5xLd1))
+
+<!-- END YOUTUBE-CARDS -->
+
+P.S. If you want to make a GitHub profile README like this, check out this [tutorial](https://youtu.be/DWFs6aqknqw?si=oX-In0gOUUZiqINh)! 😊
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
