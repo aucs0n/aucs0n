@@ -15,7 +15,7 @@ I'm currently working on Python bots, Java OOP<br>I'm currently learning Java, P
 <!-- If you however want to select which videos display, then you can manually generate the video link by changing the below parameters in angle brackets. -->
 <!-- https://ytcards.demolab.com/?id=<video ID>&title=<video+title>&lang=en&timestamp=<video publish date in Unix time format>&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=<video duration in seconds> "<video title>") -->
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Epic FC on Gunjou Infinity by Toyama Nao | 351 pp 98.68% Accuracy | osu!](https://ytcards.demolab.com/?id=q6e1IVrWIM8&title=Epic+FC+on+Gunjou+Infinity+by+Toyama+Nao+|+351+pp+98.68%+Accuracy+|+osu!&lang=en&timestamp=1716163200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "Epic FC on Gunjou Infinity by Toyama Nao | 351 pp 98.68% Accuracy | osu!")]((https://youtu.be/q6e1IVrWIM8?si=WwKGzbuFsyp5xLd1))
+[![Epic FC on Gunjou Infinity by Toyama Nao | 351 pp 98.68% Accuracy | osu!](https://ytcards.demolab.com/?id=q6e1IVrWIM8&title=Epic+FC+on+Gunjou+Infinity+by+Toyama+Nao+|+351+pp+98.68%+Accuracy+|+osu!&lang=en&timestamp=1716163200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "Epic FC on Gunjou Infinity by Toyama Nao | 351 pp 98.68% Accuracy | osu!")](https://youtu.be/Wjj21p3tvcg?si=b7QYksN87h0wsGpQ)
 
 <!-- END YOUTUBE-CARDS -->
 
