@@ -29,9 +29,8 @@ P.S. If you want to make a GitHub profile README like this, check out this [tuto
 
 ## 📖 Bible Verse of the Day
 
-![Bible Verse](https://beta.ourmanna.com/verses/api/image?style=formatted)
+![Bible Verse](https://ourmanna.github.io/api/verses/image/?style=formatted)
 
-<sub>Powered by [OurManna Bible API](https://ourmanna.com/labs/bible-api/)</sub>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
