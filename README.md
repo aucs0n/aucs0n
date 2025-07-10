@@ -27,10 +27,11 @@ P.S. If you want to make a GitHub profile README like this, check out this [tuto
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=aucs0n&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+## 📖 Bible Verse of the Day
 
----
-[![](https://visitcount.itsvg.in/api?id=aucs0n&icon=0&color=0)](https://visitcount.itsvg.in)
+![Bible Verse](https://beta.ourmanna.com/verses/api/image?style=formatted)
+
+<sub>Powered by [OurManna Bible API](https://ourmanna.com/labs/bible-api/)</sub>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
