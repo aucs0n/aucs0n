@@ -31,6 +31,9 @@ P.S. If you want to make a GitHub profile README like this, check out this [tuto
 
 ![Bible Verse](https://ourmanna.github.io/api/verses/image/?style=formatted)
 
+*Powered by [OurManna Bible API](https://ourmanna.com/labs/bible-api/)*
+
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
