@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Python bots, Java OOP<br>I'm currently learning Java, Python, and C<br>Ask me about anything really kekw<br>Fun fact: I play osu!
+I'm currently working on Python bots, Java OOP<br>I'm currently learning Java, Python, and C<br>I'll probably go into CyberSec<br>Fun fact: I play osu!
 
 
 # 💻 Tech Stack:
