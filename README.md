@@ -96,8 +96,6 @@ My Information Engineering courses build on each other, one step at a time:
 <p align="center">
   <a href="https://www.linkedin.com/in/ghemarson-john-nacua-4422b8289"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:ghemarson.nacua@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.youtube.com/@aucs0n"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
-  <a href="https://x.com/Jirikurinko"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-</p>
+  <a href="https://www.youtube.com/@aucs0n"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a></p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:a1c6ea,50:3d6281,100:0b1016&height=120&section=footer" alt=""/>
