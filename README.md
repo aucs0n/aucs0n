@@ -74,17 +74,19 @@ My Information Engineering courses build on each other, one step at a time:
   <img width="100%" src="profile-3d-contrib/profile-capitano.svg" alt="3D contribution calendar"/>
 </p>
 
-## 🎬 Featured YouTube Video
+## 🎬 Featured YouTube Videos
 
 <!-- YouTube video cards from https://github.com/DenverCoder1/github-readme-youtube-cards -->
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Epic FC on Gunjou Infinity by Toyama Nao | 351 pp 98.68% Accuracy | osu!](https://ytcards.demolab.com/?id=q6e1IVrWIM8&title=Epic+FC+on+Gunjou+Infinity+by+Toyama+Nao+|+351+pp+98.68%+Accuracy+|+osu!&lang=en&timestamp=1716163200&background_color=%230b1016&title_color=%23e6edf3&stats_color=%239fd3ff&max_title_lines=1&width=250&border_radius=5&duration=436 "Epic FC on Gunjou Infinity by Toyama Nao | 351 pp 98.68% Accuracy | osu!")](https://youtu.be/q6e1IVrWIM8)
+[![Corsair K63 Mech Keyboard: 6 Years Later (2026!)](https://ytcards.demolab.com/?id=QW4n6rnFFXA&title=Corsair+K63+Mech+Keyboard%3A+6+Years+Later+(2026!)&lang=en&timestamp=1783994145&background_color=%230b1016&title_color=%23e6edf3&stats_color=%239fd3ff&max_title_lines=2&width=250&border_radius=5&duration=131 "Corsair K63 Mech Keyboard: 6 Years Later (2026!)")](https://youtu.be/QW4n6rnFFXA)
+[![Becoming an NBA Player in Deadlock [Bisaya w/ Eng Sub]](https://ytcards.demolab.com/?id=I6WKLguRqfA&title=Becoming+an+NBA+Player+in+Deadlock+%5BBisaya+w%2F+Eng+Sub%5D&lang=en&timestamp=1784431543&background_color=%230b1016&title_color=%23e6edf3&stats_color=%239fd3ff&max_title_lines=2&width=250&border_radius=5&duration=509 "Becoming an NBA Player in Deadlock [Bisaya w/ Eng Sub]")](https://youtu.be/I6WKLguRqfA)
+[![Epic FC on Gunjou Infinity by Toyama Nao | 351 pp 98.68% Accuracy | osu!](https://ytcards.demolab.com/?id=q6e1IVrWIM8&title=Epic+FC+on+Gunjou+Infinity+by+Toyama+Nao+|+351+pp+98.68%+Accuracy+|+osu!&lang=en&timestamp=1716163200&background_color=%230b1016&title_color=%23e6edf3&stats_color=%239fd3ff&max_title_lines=2&width=250&border_radius=5&duration=310 "Epic FC on Gunjou Infinity by Toyama Nao | 351 pp 98.68% Accuracy | osu!")](https://youtu.be/q6e1IVrWIM8)
 <!-- END YOUTUBE-CARDS -->
 
 P.S. If you want to make a GitHub profile README like this, check out this [tutorial](https://youtu.be/DWFs6aqknqw?si=oX-In0gOUUZiqINh)! 😊 The YouTube video cards are made with [github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards).
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark)
+<img width="600" height="260" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark" alt="Random dev quote"/>
 
 ## 📫 Connect With Me
 
