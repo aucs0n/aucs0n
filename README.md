@@ -1,7 +1,10 @@
-<a href="https://aucs0n.github.io/capitano-portfolio/"><img width="100%" src="assets/banner.jpg" alt="Ghemarson John Nacua · Computer Engineering · University of San Carlos · Exploring Cybersecurity & GRC"/></a>
+<a href="https://aucs0n.github.io/capitano-portfolio/"><img width="100%" src="assets/banner.jpg" alt="Il Capitano (Genshin Impact) fan art"/></a>
+
+<h1 align="center">Ghemarson John Nacua</h1>
+<p align="center"><b>Computer Engineering · University of San Carlos</b></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=9FD3FF&center=true&vCenter=true&width=560&lines=4th-year+Computer+Engineering+student;Exploring+Cybersecurity+%26+GRC;Built+an+AI+that+blocks+DoS+floods+on+real+hardware;osu!+player+on+the+side" alt="Typing intro"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=9FD3FF&center=true&vCenter=true&width=640&lines=4th-year+Computer+Engineering+student;Exploring+Cybersecurity+%26+GRC;Built+an+AI+that+blocks+DoS+attacks;osu!+player+on+the+side" alt="Typing intro"/>
 </p>
 
 <p align="center">
