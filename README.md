@@ -21,6 +21,8 @@
 
 <h3 align="center">"Whatever you do, do from the heart, as for the Lord and not for others."<br/>— Colossians 3:23 (NABRE)</h3>
 
+<p align="center"><sub>🥀 LOVE IS WORTHLESS (Sukuna, JJK)</sub></p>
+
 ## 🛡️ Security Journey
 
 My Information Engineering courses build on each other, one step at a time:
