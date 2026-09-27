@@ -1,0 +1,11 @@
+{
+  "type": "normal",
+  "fileName": "profile-capitano.svg",
+  "backgroundColor": "#0b1016",
+  "foregroundColor": "#e6edf3",
+  "strongColor": "#c9a45c",
+  "weakColor": "#8fa3b8",
+  "radarColor": "#c9a45c",
+  "growingAnimation": true,
+  "contribColors": ["#161b22", "#1c2f42", "#2b4a66", "#6fa6d6", "#9fd3ff"]
+}

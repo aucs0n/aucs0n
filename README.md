@@ -71,7 +71,7 @@ My Information Engineering courses build on each other, one step at a time:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aucs0n&background=0B1016&border=2B4A66&ring=C9A45C&fire=C9A45C&currStreakNum=E6EDF3&currStreakLabel=9FD3FF&sideNums=E6EDF3&sideLabels=9FD3FF&dates=8FA3B8&stroke=2B4A66" alt="Contribution streak"/>
 </p>
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/aucs0n/aucs0n/output/snake-dark.svg" alt="Contribution snake"/>
+  <img width="100%" src="profile-3d-contrib/profile-capitano.svg" alt="3D contribution calendar"/>
 </p>
 
 ## 🎬 Featured YouTube Video
