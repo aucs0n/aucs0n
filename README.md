@@ -2,7 +2,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1016,50:3d6281,100:a1c6ea&height=200&section=header&text=Ghemarson%20John%20Nacua&fontSize=44&fontColor=f1fbff&fontAlignY=38&desc=Computer%20Engineering%20%C2%B7%20University%20of%20San%20Carlos&descAlignY=58&descSize=16&animation=fadeIn" alt="Ghemarson John Nacua"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=A1C6EA&center=true&vCenter=true&width=560&lines=4th-year+Computer+Engineering+student;Network+Security+%C2%B7+SDN+%C2%B7+Formal+Verification;Built+an+AI+that+blocks+DoS+floods+on+real+hardware;osu!+player+on+the+side" alt="Typing intro"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=A1C6EA&center=true&vCenter=true&width=560&lines=4th-year+Computer+Engineering+student;Exploring+Cybersecurity+%26+GRC;Built+an+AI+that+blocks+DoS+floods+on+real+hardware;osu!+player+on+the+side" alt="Typing intro"/>
 </p>
 
 <p align="center">
@@ -11,17 +11,19 @@
   <a href="https://www.linkedin.com/in/ghemarson-john-nacua-4422b8289"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
+<p align="center">
+  <img src="https://hits.sh/github.com/aucs0n.svg?label=Profile%20views&color=3d6281&labelColor=0b1016&style=for-the-badge" alt="Profile views"/>
+</p>
+
 ## 💫 About Me
 
 - 🎓 4th-year **BS Computer Engineering** student at the **University of San Carlos**, Cebu
-- 🛡️ Focused on **cybersecurity**: software-defined networking, intrusion detection, cryptography and protocol verification
-- 🔭 Currently exploring **Cloud Security**
+- 🛡️ Exploring **cybersecurity** and **GRC** (governance, risk & compliance), still trying different areas before settling on a niche
+- 🔭 So far I've tried network security, SDN, intrusion detection, cryptography and protocol verification, and I'm curious about cloud security next
 - 🤝 Member of the **USC Computer Engineering Council (CpEC)**
 - 🎮 Fun fact: I play **osu!** (and Genshin)
 
 <h3 align="center">"Whatever you do, do from the heart, as for the Lord and not for others."<br/>— Colossians 3:23 (NABRE)</h3>
-
-<p align="center"><sub>🥀 LOVE IS WORTHLESS (Sukuna, JJK)</sub></p>
 
 ## 🛡️ Security Journey
 
