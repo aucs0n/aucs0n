@@ -90,6 +90,8 @@ My Information Engineering courses build on each other, one step at a time:
 [![Epic FC on Gunjou Infinity by Toyama Nao | 351 pp 98.68% Accuracy | osu!](https://ytcards.demolab.com/?id=q6e1IVrWIM8&title=Epic+FC+on+Gunjou+Infinity+by+Toyama+Nao+|+351+pp+98.68%+Accuracy+|+osu!&lang=en&timestamp=1716163200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "Epic FC on Gunjou Infinity by Toyama Nao | 351 pp 98.68% Accuracy | osu!")](https://youtu.be/q6e1IVrWIM8)
 <!-- END YOUTUBE-CARDS -->
 
+P.S. If you want to make a GitHub profile README like this, check out this [tutorial](https://youtu.be/DWFs6aqknqw?si=oX-In0gOUUZiqINh)! 😊 The YouTube video cards are made with [github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards).
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
